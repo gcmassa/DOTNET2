@@ -27,3 +27,4 @@ C:\Users\Giancarlo\programacao\DOTNET2\Exercicios\Operadores\obj\Debug\net9.0\re
 C:\Users\Giancarlo\programacao\DOTNET2\Exercicios\Operadores\obj\Debug\net9.0\Operadores.pdb
 C:\Users\Giancarlo\programacao\DOTNET2\Exercicios\Operadores\obj\Debug\net9.0\Operadores.genruntimeconfig.cache
 C:\Users\Giancarlo\programacao\DOTNET2\Exercicios\Operadores\obj\Debug\net9.0\ref\Operadores.dll
+C:\Users\Giancarlo\programacao\DOTNET2\Exercicios\Operadores\obj\Debug\net9.0\Operadores.sourcelink.json
